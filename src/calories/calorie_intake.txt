@@ -1,0 +1,6 @@
+
+pizza: 100 calories
+cheese: 200 calories
+Cheeseburger: 400000 calories
+this: 123 calories
+this: 23 calories
